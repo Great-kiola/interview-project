@@ -1,4 +1,5 @@
 export interface SampleData {
+    type: string;
     results: {
         id: number;
         created: string;
